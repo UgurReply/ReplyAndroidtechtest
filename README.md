@@ -1,2 +1,2 @@
 # ReplyAndroidtechtest
-An entry test for android developers to test their knowledge on coding.
+Blank README file (Please fill out what the application does/uses.
